@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlkhatim&label=Profile%20views&color=0e75b6&style=flat" alt="kmlkhatim" /> </p>
 
-![](https://github.com/academy-notJust-dev)
-
 - 📫 How to reach me **kmlkhatim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
