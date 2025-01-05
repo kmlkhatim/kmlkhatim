@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlkhatim&label=Profile%20views&color=0e75b6&style=flat" alt="kmlkhatim" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmlkhatim" alt="kmlkhatim" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/khatim_kamal" target="blank"><img src="https://img.shields.io/twitter/follow/khatim_kamal?logo=twitter&style=for-the-badge" alt="khatim_kamal" /></a> </p>
+
 - 📫 How to reach me **kmlkhatim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
