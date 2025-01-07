@@ -60,8 +60,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?kmlkhatim=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Connect with me
 [<img align="left" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35" height="35"/>](https://www.youtube.com/@Kamal-khatim)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/>](https://www.instagram.com/betomoedano/)
