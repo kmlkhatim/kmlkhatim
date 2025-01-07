@@ -14,8 +14,7 @@
 
 ![Beto's GitHub stats](https://github-readme-stats.vercel.app/api?username=betomoedano&show_icons=true&count_private=true)
 
-<!--
-**betomoedano/betomoedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 Here are some ideas to get you started:
 
