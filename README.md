@@ -1,9 +1,7 @@
 ![logo](https://github.com/kmlkhatim/kmlkhatim/blob/main/Simple%20Travail%20LinkedIn%20Bannie%CC%80re%20copie.png)
 # Hi, I'm Kamal 👋
 ### I am a passionate software developer who loves spending countless hours coding and creating innovative solutions.
-- 💡  I possess a bold entrepreneurial spirit and thrive on mastering cutting-edge technologies.
-- ♟ Fun fact: I enjoy playing chess, even if I'm not a grandmaster yet!
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### Connect with me
 
 [<img align="left" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35" height="35"/>](https://www.youtube.com/@Kamal-khatim)
