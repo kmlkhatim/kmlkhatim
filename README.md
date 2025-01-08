@@ -64,7 +64,6 @@
 [<img align="left" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="35" height="35"/>](https://www.youtube.com/@Kamal-khatim)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/>](https://www.instagram.com/betomoedano/)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/kamal-khatim/)
-[<img align="left" src="https://www.iconpacks.net/free-icon/facebook-logo-2428.html" width="30" height="30"/>](https://facebook.com/kamal.khatim)
 
 <br />
 
